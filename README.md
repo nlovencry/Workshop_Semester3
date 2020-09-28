@@ -1,2 +1,2 @@
 # Workshop
- Workshop semester 3
+ Semester 3
